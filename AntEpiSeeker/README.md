@@ -26,14 +26,13 @@ This analysis was performed on Ubuntu 20.04.5 LTS with Python 3.9.13. Also, [VCF
 
 ## Folders
 
-There are **nine folders** and some of their decription:
+There are ** folders** and some of their decription:
 
 1) [Pictures](./Pictures): contains pictures used in this README.md;
 2) [ala_med_input](./ala_med_input): contains `AntEpiSeeker` input file for Alanine content dataset and file for its generation;
-3) [ala_two_loci][./ala_two_loci] and [ala_three_loci](./ala_three_loci): contain files required or generated during analysis of *Alanine content dataset* in two-loci and three-loci interaction mode, respectively. For example, there are `AntEpiSeeker` outputs, and generated for and after genome assembly remapping, SNP annotation, enrichment analysis, *etc.*;
+3) [ala_two_loci](./ala_two_loci) and [ala_three_loci](./ala_three_loci): contain files required or generated during analysis of *Alanine content dataset* in two-loci and three-loci interaction mode, respectively. For example, there are `AntEpiSeeker` outputs, and generated for and after genome assembly remapping, SNP annotation, enrichment analysis, *etc.*;
 4) [ant_parameters](./ant_parameters): contains `parameters.txt` files for running `AntEpiSeeker` for both datasets and interaction modes;
-5) [secret_two_loci](./secret_two_loci) and [secret_three_loci](./secret_three_loci): contain files required or generated during analysis of *Commercial content dataset* in two-loci and three-loci interaction mode, respectively. For example, there are `AntEpiSeeker` outputs, and generated for and after SNP annotation, enrichment analysis, *etc.*;
-6) [source](./source): contains *Jupyter Notebooks* with detailed and commented analysis of both datasets, and `.py` script with useful for this analysis functions
+5) [source](./source): contains *Jupyter Notebooks* with detailed and commented analysis of both datasets, and `.py` script with useful for this analysis functions
 
 ## AntEpiSeeker parameters
 
@@ -91,7 +90,7 @@ As the result, three files were be generated:
 2) `.012.pos`: file with SNP coordinates;
 3) `.012`: file with genotype in *012* format
 
-The described files can be found in these folders: [ala_med_input](./ala_med_input) and [secret_med_input](./secret_med_input).
+The described files can be found in [ala_med_input](./ala_med_input) folder.
 
 Next, we combined *012* genotype with generated SNP names in format *chrN:position* and phenotype data. Also, we were convinced of the absence of omissions in the genotype. We have prepared files with parameters. This files could be found in [this folder](./ant_parameters). Before running the tool, each file with parameters **should be renamed as** `parameters.txt`.
 
