@@ -1,0 +1,43 @@
+Gene ID	GO - Biological Process	GO - Cellular Component	GO - Molecular Function	GO ID	
+100783649	GO:0006629 [Name: lipid metabolic process]	GO:0005737 [Name: cytoplasm]	GO:0008374 [Name: O-acyltransferase activity]	-	
+100812427	GO:0006362 [Name: transcription elongation from RNA polymerase I promoter]; GO:0042790 [Name: transcription of nuclear large rRNA transcript from RNA polymerase I promoter]; GO:0001188 [Name: RNA polymerase I transcriptional preinitiation complex assembly]	GO:0005736 [Name: DNA-directed RNA polymerase I complex]	GO:0003899 [Name: DNA-directed 5'-3' RNA polymerase activity]; GO:0003677 [Name: DNA binding]	-	
+100784883	GO:0045717 [Name: negative regulation of fatty acid biosynthetic process]; GO:0000724 [Name: double-strand break repair via homologous recombination]; GO:0035066 [Name: positive regulation of histone acetylation]; GO:0035067 [Name: negative regulation of histone acetylation]; GO:0045944 [Name: positive regulation of transcription from RNA polymerase II promoter]	GO:0031436 [Name: BRCA1-BARD1 complex]; GO:0005886 [Name: plasma membrane]; GO:0070531 [Name: BRCA1-A complex]	GO:0046872 [Name: metal ion binding]; GO:0004842 [Name: ubiquitin-protein transferase activity]	-	
+102660910	-	-	-	-	
+100780758	-	GO:0005737 [Name: cytoplasm]	GO:0016746 [Name: transferase activity, transferring acyl groups]	-	
+102663994	GO:0000398 [Name: mRNA splicing, via spliceosome]	GO:0016607 [Name: nuclear speck]	GO:0003723 [Name: RNA binding]; GO:0008270 [Name: zinc ion binding]	-	
+100812902	GO:0009904 [Name: chloroplast accumulation movement]; GO:0009903 [Name: chloroplast avoidance movement]	GO:0005829 [Name: cytosol]	-	-	
+106799693	-	-	-	-	
+100787427	GO:0044804 [Name: nucleophagy]; GO:0000422 [Name: mitophagy]; GO:0006497 [Name: protein lipidation]; GO:0034497 [Name: protein localization to pre-autophagosomal structure]	GO:0019898 [Name: extrinsic component of membrane]; GO:0005829 [Name: cytosol]; GO:0034045 [Name: pre-autophagosomal structure membrane]	GO:0080025 [Name: phosphatidylinositol-3,5-bisphosphate binding]; GO:0032266 [Name: phosphatidylinositol-3-phosphate binding]	-	
+100804864	GO:0010468 [Name: regulation of gene expression]; GO:0006338 [Name: chromatin remodeling]	GO:0005634 [Name: nucleus]	GO:0032452 [Name: histone demethylase activity]; GO:0034647 [Name: histone demethylase activity (H3-trimethyl-K4 specific)]	-	
+106798742	-	-	-	-	
+100790673	-	-	-	-	
+100776077	-	GO:0016021 [Name: integral component of membrane]	-	-	
+102661733	-	-	-	-	
+100800222	-	-	GO:0080043 [Name: quercetin 3-O-glucosyltransferase activity]; GO:0080044 [Name: quercetin 7-O-glucosyltransferase activity]	-	
+100781856	-	-	-	-	
+100817487	-	-	-	-	
+100816284	GO:0006486 [Name: protein glycosylation]	GO:0016021 [Name: integral component of membrane]; GO:0000139 [Name: Golgi membrane]	GO:0008373 [Name: sialyltransferase activity]	-	
+100816765	-	-	-	-	
+113001496	-	-	-	-	
+100788633	-	-	-	-	
+100790141	GO:0010478 [Name: chlororespiration]	-	-	-	
+100794231	-	-	GO:0003723 [Name: RNA binding]	-	
+100799365	-	-	-	-	
+100780435	-	GO:0016021 [Name: integral component of membrane]	GO:0005524 [Name: ATP binding]; GO:0004672 [Name: protein kinase activity]	-	
+100786476	-	-	-	-	
+100808230	-	GO:0005737 [Name: cytoplasm]	GO:0030145 [Name: manganese ion binding]; GO:0070006 [Name: metalloaminopeptidase activity]; GO:0008233 [Name: peptidase activity]	-	
+100794766	GO:0030150 [Name: protein import into mitochondrial matrix]; GO:0006457 [Name: protein folding]	GO:0001405 [Name: presequence translocase-associated import motor]; GO:0009507 [Name: chloroplast]	GO:0051087 [Name: chaperone binding]; GO:0042803 [Name: protein homodimerization activity]; GO:0000774 [Name: adenyl-nucleotide exchange factor activity]; GO:0051082 [Name: unfolded protein binding]	-	
+100785430	-	-	-	-	
+100813731	-	GO:0016021 [Name: integral component of membrane]; GO:0016020 [Name: membrane]	-	-	
+100798342	GO:0006357 [Name: regulation of transcription from RNA polymerase II promoter]; GO:0051726 [Name: regulation of cell cycle]; GO:0007049 [Name: cell cycle]; GO:0006355 [Name: regulation of transcription, DNA-templated]	GO:0005667 [Name: transcription factor complex]; GO:0005634 [Name: nucleus]	GO:0008168 [Name: methyltransferase activity]; GO:0003677 [Name: DNA binding]; GO:0000981 [Name: RNA polymerase II transcription factor activity, sequence-specific DNA binding]	-	
+100790649	GO:0007004 [Name: telomere maintenance via telomerase]	GO:0000781 [Name: chromosome, telomeric region]; GO:0000333 [Name: telomerase catalytic core complex]	GO:0070034 [Name: telomerase RNA binding]; GO:0046872 [Name: metal ion binding]; GO:0042162 [Name: telomeric DNA binding]; GO:0003721 [Name: telomerase RNA reverse transcriptase activity]	-	
+100305477	GO:1902600 [Name: hydrogen ion transmembrane transport]	GO:0016471 [Name: vacuolar proton-transporting V-type ATPase complex]	GO:0042626 [Name: ATPase activity, coupled to transmembrane movement of substances]	-	
+100780158	-	GO:0005634 [Name: nucleus]	GO:0008270 [Name: zinc ion binding]	-	
+100792700	-	-	-	-	
+100800352	-	-	-	-	
+100801545	GO:0043161 [Name: proteasome-mediated ubiquitin-dependent protein catabolic process]; GO:0016567 [Name: protein ubiquitination]; GO:0045732 [Name: positive regulation of protein catabolic process]; GO:0000209 [Name: protein polyubiquitination]	GO:0005737 [Name: cytoplasm]	GO:0061630 [Name: ubiquitin protein ligase activity]	-	
+100817727	GO:0006406 [Name: mRNA export from nucleus]	GO:0070390 [Name: transcription export complex 2]; GO:0005737 [Name: cytoplasm]; GO:0005634 [Name: nucleus]	-	-	
+100783208	-	-	-	-	
+100799704	-	-	GO:0016747 [Name: transferase activity, transferring acyl groups other than amino-acyl groups]	-	
+100810760	-	-	-	-	
+100815910	GO:0006468 [Name: protein phosphorylation]	GO:0005737 [Name: cytoplasm]; GO:0005634 [Name: nucleus]; GO:0005886 [Name: plasma membrane]	GO:0005524 [Name: ATP binding]; GO:0004674 [Name: protein serine/threonine kinase activity]	-	

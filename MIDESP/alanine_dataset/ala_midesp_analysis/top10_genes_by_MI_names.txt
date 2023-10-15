@@ -1,0 +1,20 @@
+100783649,phospholipid--sterol O-acyltransferase
+100784883,BRCA1-associated RING domain protein 1
+102660910,LOC102660910
+102663994,serine/arginine-rich splicing factor 4
+100812902,WEB1
+100812902,WEB1
+100804864,JMJ16
+100790673,NET domain-containing protein
+102661733,ncRNA
+100812902,WEB1
+100812427,rpa49
+100812427,rpa49
+100780758,PDH dihydrolipoamide acetyltransferase 
+100780758,PDH dihydrolipoamide acetyltransferase
+106799693,MAIN-LIKE 2-like protein
+100787427,autophagy-related protein 18a
+106798742,WD repeat-containing protein 53
+100776077,LOC100776077
+100800222,phloretin 4'-O-glucosyltransferase
+100781856,SNF2 domain-containing protein CLASSY 1
