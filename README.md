@@ -136,10 +136,12 @@ The pictures above representes the resulted gene-gene interaction networks for *
 
 **Gene-gene interaction network based on MIDEP pipeline results for *Alanine content dataset***
 ($MI_{APC} z-score >= 2$):
+
 ![ala_net](./MIDESP/Pictures/ala_net.png)
 
 **Gene-gene interaction network based on MIDEP pipeline results for *Commercial dataset***
 ($MI_{APC} z-score >= 3$):
+
 ![secret_net](./MIDESP/Pictures/secret_net.jpg)
 
 ## Conclusions
