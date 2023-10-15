@@ -48,7 +48,7 @@ For our analysis, we used parameters **recommended by authors**. The table below
 
 ## Preparation to run
 
-For commercial dataset, before converting it to `PLINK` readable format, we imputed genotype and filered out indels from `.vcf` file with genotype data.
+For commercial dataset, before converting it to `PLINK` readable format, we imputed genotype and filered out indels from `.vcf` file with genotype data. This procedure described in this [Notebook](../AntEpiSeeker/source/AntEpiSeeker_secret.ipynb).
 
 The **input** files should be in `PLINK` format: `.tped` for genotype and `.tfam` for phenotype. After converting them to a `PLINK` readable format, as recommended by authors, we applied several filters to the datasetwe first filtered on data: 
 
