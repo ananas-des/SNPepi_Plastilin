@@ -22,12 +22,11 @@ This analysis was performed on Ubuntu 20.04.5 LTS with Python 3.9.13. Also, [VCF
 
 ## Folders
 
-Threre are **four folders**, and here is their description:
+Threre are **three folders**, and here is their description:
 
 1) [Pictures](./Pictures): contains pictures used in this README.md;
 2) [alanine_dataset](./alanine_dataset): contains files required or generated during analysis of *Alanine content dataset*. For example, there are **MIDESP** output, and generated for and after genome assembly remapping, SNP annotation, enrichment analysis, files for building gene-gene interacrion networks *etc.*;
-3) [commercial_dataset](./commercial_dataset): contains files required or generated during analysis of *Commercial dataset*. For example, there are **MIDESP** output, and generated for and after genome assembly remapping, SNP annotation, enrichment analysis, files for building gene-gene interacrion networks *etc.*;
-4) [source](./): contains *Jupyter Notebooks* with detailed and commented analysis of both datasets, and `.py` script with useful for this analysis functions
+3) [source](./): contains *Jupyter Notebooks* with detailed and commented analysis of both datasets, and `.py` script with useful for this analysis functions
 
 ## MIDESP parameters
 
@@ -49,7 +48,7 @@ For our analysis, we used parameters **recommended by authors**. The table below
 
 ## Preparation to run
 
-For commercial dataset, before converting it to `PLINK` readable format, we imputed genotype and filered out indels from `.vcf` file with genotype data. This procedure described in this [Notebook](../AntEpiSeeker/source/AntEpiSeeker_secret.ipynb).
+For commercial dataset, before converting it to `PLINK` readable format, we imputed genotype and filered out indels from `.vcf` file with genotype data.
 
 The **input** files should be in `PLINK` format: `.tped` for genotype and `.tfam` for phenotype. After converting them to a `PLINK` readable format, as recommended by authors, we applied several filters to the datasetwe first filtered on data: 
 
