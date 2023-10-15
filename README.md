@@ -1,7 +1,7 @@
 # <img src='https://github.com/Balan666/SNP_Plastilin/assets/113861516/3d268d9b-2c70-4b17-8903-2ac0c1a6fd87' width="100">  SNP Grouping and evaluation of epistatic interaction for phenotypic traits in agricultural plants 
 
 ## Disclamer
-This Repository is for **Semester project in Bioinformatics Institute 2022-2023**. In this project, we analyzed both open-access and NOVA PLANT commercial datasets, thus the part with commercial raw data as well as the results of analysis  are contained in private repository. There are raw data and utilities' outputs only for open-access dataset. 
+This Repository is for **Semester project in Bioinformatics Institute 2022-2023**. In this project, we analyzed both open-access and NOVA PLANT commercial datasets, thus the part with commercial raw data as well as the results of analysis  are contained in private repository. There are raw data and utilities' outputs ONLY for *open-access dataset*. 
 
 ## Authors:raising_hand::
 * Anastasia Zolotar
