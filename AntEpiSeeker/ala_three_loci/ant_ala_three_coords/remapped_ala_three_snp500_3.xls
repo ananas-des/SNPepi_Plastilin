@@ -1,0 +1,9 @@
+#feat_name	source_int	mapped_int	source_id	mapped_id	source_length	mapped_length	source_start	source_stop	source_strand	source_sub_start	source_sub_stop	mapped_start	mapped_stop	mapped_strand	coverage	recip	asm_unit	
+Line:1	1	1	chr15	chr15	1001	1001	33766840	33767840	+	33766840	33767840	36329627	36330627	+	1.00000	First Pass	Primary Assembly
+Line:2	1	1	chr20	chr20	1001	1001	34124029	34125029	+	34124029	34125029	35263434	35264434	+	1.00000	First Pass	Primary Assembly
+Line:3	1	1	chr9	chr9	1001	1001	42153883	42154883	+	42153883	42154883	45349990	45350990	+	1.00000	First Pass	Primary Assembly
+Line:4	1	1	chr15	chr15	1001	1001	50732620	50733620	+	50732620	50733620	51533524	51534524	+	1.00000	First Pass	Primary Assembly
+Line:5	1	1	chr20	chr20	1001	1001	25544175	25545175	+	25544175	25545175	26713391	26714391	+	1.00000	First Pass	Primary Assembly
+Line:6	1	1	chr8	chr8	1001	1001	34711373	34712373	+	34711373	34712373	35318333	35319333	+	1.00000	First Pass	Primary Assembly
+Line:7	1	1	chr2	chr2	1001	1001	48341529	48342529	+	48341529	48342529	45262726	45263726	+	1.00000	First Pass	Primary Assembly
+Line:8	1	1	chr8	chr8	1001	1001	24193027	24194027	+	24193027	24194027	24116265	24117265	+	1.00000	First Pass	Primary Assembly

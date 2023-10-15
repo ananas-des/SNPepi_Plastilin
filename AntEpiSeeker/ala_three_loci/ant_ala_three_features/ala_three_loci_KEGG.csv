@@ -1,0 +1,5 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0304887316473628,1,78,65.1480186480186,"Flavonoid biosynthesis","http://www.genome.jp/kegg-bin/show_pathway?gmx00941 ","100775264"
+0.0304887316473628,1,71,71.5710627400768,"Circadian rhythm","http://www.genome.jp/kegg-bin/show_pathway?gmx04712 ","100775264"
+0.0398591174589109,1,154,32.9970484061393,"Cysteine and methionine metabolism","http://www.genome.jp/kegg-bin/show_pathway?gmx00270 ","100814810"
+0.0483298033680527,2,1828,5.5596777402029,"Biosynthesis of secondary metabolites","http://www.genome.jp/kegg-bin/show_pathway?gmx01110 ","100814810 100775264"
